@@ -1,0 +1,4 @@
+entity:
+   configMap:
+     facility: India-URL
+     matchType: Cricket
